@@ -1,2 +1,7 @@
-# analise_dados_ensino_superior
-Análise dados Ensino Superior
+# Análise Dados Ensino Superior
+
+Trabalho ministrado pelo professor Fernando Masanori na Fatec - São José dos Campos. Este trabalho teve como objetivo aprender a utilizar a ferramenta Jupyter e as bibliotecas: Pandas, Seaborn, matplot e folium. Para tanto, foi feita uma análise nos índices do Ensino Superior Brasileiro.
+
+Autor: Gustavo Robert e Rodrigo Querino
+Turma: 3º A.D.S. A
+Faculdade: Fatec - Prof.º Jessen Vidal
